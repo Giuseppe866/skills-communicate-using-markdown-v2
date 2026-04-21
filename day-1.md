@@ -1,6 +1,10 @@
 # Daily Learning
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="100" align="center">
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [ ] xxx
 - [ ] yyy
 - [ ] zzz
